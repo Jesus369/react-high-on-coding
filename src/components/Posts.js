@@ -22,7 +22,7 @@ export class Posts extends Component {
     }
 
     var type = {
-      margin: "0 auto 0 auto"
+      marginLeft: "3em"
     }
 
     var listing = {
