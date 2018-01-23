@@ -4,7 +4,7 @@ export class Header extends Component {
   render() {
 
     var styleHeader = {
-      backgroundColor:"#9DD39D",
+      backgroundColor:"#66BBC4",
       borderRadius: "10px",
       display: "flex",
       flexDirection: "row",
